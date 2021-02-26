@@ -1,6 +1,6 @@
 # Wasabi [![Build Status](https://travis-ci.com/danleh/wasabi.svg?branch=master)](https://travis-ci.com/danleh/wasabi)
 
-## :waring: Note :warning:
+## :warning: Note :warning:
 This fork enables to run Wasabi in **Node.js** by applying little changes to the runtime. For running Wasabi in the Browser visit the original [Repo](https://github.com/danleh/wasabi)!
 
 ## Tutorial at PLDI 2019
